@@ -10,6 +10,7 @@ logistic_fun <- function(t) {
   
 }
 
+#Values are pulled from the linear models in fit_linear_model
 N0 <- 5125.585 #
   
 r <- 4.964e-03 #
