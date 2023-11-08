@@ -11,3 +11,14 @@ N0 = 5125.585, r = 4.964e-03, K = 4.998e+09
 
 The linear model created mapped closely to the plotted growth data
 ![image](https://github.com/MatNoble1/logistic_growth/assets/147311707/9ebf9a71-913e-4cae-983e-eb07f582500a)
+
+**Calculating population size at t = 4980 when growth is exponential:**
+
+N(t) = N0e^rt
+
+N(4980) = 5125.585 x e^(4.964e-03 x 4980)
+
+N(4980) = 5125.585e^1230.772
+
+This is much higher than population size at t = 4980 when there's logistic growth 
+
